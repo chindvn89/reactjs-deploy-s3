@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
 import Contact from './pages/Contact';
-import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './pages/Home';
 
 function App() {
