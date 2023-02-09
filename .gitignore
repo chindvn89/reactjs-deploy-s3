@@ -3,3 +3,9 @@
 
 # framework
 node_modules/
+
+# build static sources
+build/
+
+# system files
+.DS_Store
