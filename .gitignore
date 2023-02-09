@@ -1,0 +1,5 @@
+# IDE
+.vscode/
+
+# framework
+node_modules/
